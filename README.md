@@ -1,5 +1,23 @@
 # Thiranex Task 1 - Personal Portfolio Website
 
+## Internship Information
+
+Company: Thiranex – Skill Development & Future Tech
+
+Intern Name: Aadhi D
+
+Intern ID: THX-JUN1226-149
+
+Role: Web Development Intern
+
+Duration: 12 June 2026 – 11 July 2026
+
+Work Mode: Remote / Project-Based
+
+Project: Multi-Page Personal Portfolio Website
+
+Task: Task 1 – Semantic HTML5 & Accessibility Portfolio
+
 ## Overview
 
 This project is a multi-page personal portfolio website developed as part of the Thiranex Web Development Internship Task 1.
@@ -29,6 +47,10 @@ The website is built using semantic HTML5 and CSS, following accessibility and r
 
 * HTML5
 * CSS3
+
+## Live Demo
+
+Portfolio Website: https://thiranex-task-1-portfolio.vercel.app/
 
 ## Author
 
